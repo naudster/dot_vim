@@ -24,3 +24,6 @@ source ~/.vim/plugins.vim
 source ~/.vim/functions.vim
 " Auto commands.
 source ~/.vim/autocmds.vim
+
+" naudster's modifications
+source ~/.vim/naudster.vim
