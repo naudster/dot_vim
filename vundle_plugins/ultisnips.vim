@@ -4,6 +4,6 @@ if exists('g:vundle_installing_plugins')
 endif
 
 let g:UltiSnipsSnippetDirectories=["MyUltiSnips"]
-let g:UltiSnipsExpandTrigger="<c-j>"
-let g:UltiSnipsJumpForwardTrigger="<c-j>"
+let g:UltiSnipsExpandTrigger="<c-h>"
+let g:UltiSnipsJumpForwardTrigger="<c-h>"
 let g:UltiSnipsJumpBackwardTrigger="<c-k>"
