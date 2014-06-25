@@ -25,8 +25,8 @@ nnoremap <silent> g<Right> :wincmd l<CR>
 " ---------------
 map <A-Left>  gT
 map <A-Right> gt
-nnoremap <A-S-let> :tabmove -1<cr>
-nnoremap <A-right> :tabmove +1<cr>
+map <A-S-left>  :tabmove -1<cr>
+map <A-S-right> :tabmove +1<cr>
 
 map <C-S-]> gt
 map <C-S-[> gT
