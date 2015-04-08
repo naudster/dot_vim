@@ -3,10 +3,10 @@
 " Crutch
 source $VIMRUNTIME/mswin.vim
 
+" ---------------------
 " Dvorak / Fingerworks
-
-
-
+" ---------------------
+"
 " ----------------
 " Buffer switching
 " ----------------
